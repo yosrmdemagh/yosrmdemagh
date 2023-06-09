@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm yosr</h1>
-- 📫 How to reach me **yosrmdemagh@gmail.com**
-
-- ⚡ Fun fact **Don't wait for opportunity create it**
+ <h6 >⚡ Fun fact :Don't wait for opportunity create it<h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
